@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://efdolica.github.io/sitemap
+Sitemap: https://efdolica.github.io/app/sitemap
+Sitemap: https://efdolica.github.io/assets/sitemap
+Sitemap: https://efdolica.github.io/css/sitemap
+Sitemap: https://efdolica.github.io/includes/sitemap
+Sitemap: https://efdolica.github.io/item/sitemap
+Sitemap: https://efdolica.github.io/src/sitemap
